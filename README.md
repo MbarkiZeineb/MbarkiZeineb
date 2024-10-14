@@ -3,10 +3,6 @@
 
 
 
-- 🔭 I’m currently working on **Knowledge Gaph-Based Recommendation System**
-
-- 🌱 I’m currently learning **MLOps**
-
 - 📫 How to reach me **zeinebmbarki2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
