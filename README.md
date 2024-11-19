@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeineb Mbarki</h1>
-<h3 align="center">I am a data scientist student</h3>
+<h3 align="center">I am a data scientist </h3>
 
 
 
